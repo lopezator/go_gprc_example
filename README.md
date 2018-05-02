@@ -4,5 +4,5 @@ https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and
 
 To run:
 
-go run server/main.go
+go run server/main.go<br />
 go run client/main.go
